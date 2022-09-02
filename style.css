@@ -1,0 +1,79 @@
+.container-fluid {
+  margin: 0 10%;
+}
+
+.nav-link {
+  margin-right: 50px;
+}
+
+.intro-container {
+  height: 91vh;
+  background-image: url("/images/Icons/background.png");
+  background-repeat: no-repeat;
+  background-size: 900px;
+  background-position-y: 500px;
+  background-position: 100%;
+}
+
+.intro-text {
+  height: 200px;
+  padding-top: 100px;
+  margin-left: 200px;
+}
+
+.display-1 {
+  width: 400px;
+}
+
+.intro-icons {
+  margin-left: 100px;
+}
+
+.recent-work {
+  margin-bottom: 20rem;
+}
+
+.recent-work h2 {
+  width: 30%;
+  height: 300px;
+  padding-top: 50px;
+  margin-left: 110px;
+}
+
+.line {
+  position: relative;
+  bottom: 200px;
+  left: 700px;
+  width: 60%;
+}
+
+.float-start {
+  width: 50%;
+  height: 60vh;
+  margin-left: 10%;
+  padding-right: 50px;
+}
+
+.text {
+  margin-right: 10%;
+}
+
+.row {
+  max-width: 100%;
+  padding: 10%;
+}
+
+.about-container {
+  height: 100vh;
+  width: 100%;
+  background-image: url("images/abvout.png");
+  background-repeat: no-repeat;
+  background-size: 900px;
+  background-position-y: 500px;
+  background-position: 100%;
+}
+
+.about-text {
+  padding: 100px  100px;
+  width: 40%;
+}
